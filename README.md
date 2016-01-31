@@ -8,5 +8,5 @@ This is sample of fablib.
 $ tox
 ```
 
-## Licence
-This is licensed under the MIT. See the [LICENCE](./LICENCE) file for details.
+## License
+This is licensed under the MIT. See the [LICENSE](./LICENSE) file for details.
