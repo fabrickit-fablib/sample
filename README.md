@@ -9,6 +9,16 @@ This is sample of fablib.
 Follow these steps.
 ```
 $ fab test:l=sample,p='bootstrap|setup'
+...
+Done.
+Disconnecting from 192.168.122.101... done.
+
+$ ssh fabric@192.168.122.101
+Warning: Permanently added '192.168.122.101' (ECDSA) to the list of known hosts.
+fabric@192.168.122.101's password:
+Last login: Sat Mar 11 06:21:04 2017 from gateway
+[fabric@sample-1-hostname ~]$ hostname
+sample-1-hostname
 ```
 
 
