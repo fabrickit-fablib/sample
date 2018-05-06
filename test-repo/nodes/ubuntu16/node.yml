@@ -1,6 +1,6 @@
 node_map:
-  centos7:
+  ubuntu:
     hosts:
-      - 192.168.122.101
+      - vpp-ubuntu7-1.example.com
     fabruns:
       - vpp/vpp

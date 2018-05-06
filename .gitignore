@@ -3,6 +3,7 @@
 *.pyc
 *.pickle
 __cluster.yml
+__console.log
 test-repo/fablib
 test-repo/storage
 test-repo/databag
